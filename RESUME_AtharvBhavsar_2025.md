@@ -27,7 +27,7 @@ June, 2021 – July, 2022 **WORK EXPERIENCE![](Aspose.Words.758a83ad-a8dd-4e50-8
 
 **PROJECTS**
 
-[**ReconSuite ](https://github.com/alphabet28/ReconSuite)**[C/C++, Qt Creator, Qt Designer]**
+[**ReconSuite**](https://github.com/alphabet28/ReconSuite)**[C/C++, Qt Creator, Qt Designer]**
 
 March, 2024 – May, 2024
 
@@ -35,7 +35,7 @@ March, 2024 – May, 2024
 - Consolidated 5 command-line tools (ping, traceroute, dig, dnsenum, and ffuf) into a unified, user-friendly interface, streamlining Cybersecurity assessments and improving efficiency by 40%. 
 - Collaborated with a team of 4, designing and implementing features that enhanced functionality and user experience, including leveraging Qt Creator and Qt Designer to develop a seamless and intuitive interface. 
 
-[**Text Excrypter ](https://github.com/alphabet28/Text-Encrypter)**[HTML, CSS, JavaScript]**  May, 2024 – June, 2024
+[**Text Excrypter**](https://github.com/alphabet28/Text-Encrypter)**[HTML, CSS, JavaScript]**  May, 2024 – June, 2024
 
 - Conceptualized, developed and deployed a text encryption application using HTML, CSS, and JavaScript, implementing both symmetric and asymmetric encryption algorithms (AES, DES, and RSA) with encryption/decryption speeds optimized by 25%. 
 - Designed and crafted an intuitive web-based interface that facilitated seamless user interactions with encryption functions. 
